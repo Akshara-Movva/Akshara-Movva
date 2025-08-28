@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
-**Akshara-Movva/Akshara-Movva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:# 👋 Hi, I'm Akshara Movva
 🔗 [LinkedIn](https://www.linkedin.com/in/akshara-movva/) | 🔗 [GitHub](https://github.com/Akshara-Movva)
 
----
 ## 👨‍🎓 About Me
 
 I'm a graduate student in *Electrical Engineering* from the *University of Houston, with a strong foundation in **embedded systems, **digital design, and **parallel computing. I have hands-on experience in **PCB design, **microcontroller programming, **SystemVerilog/UVM, and **C++ graphics development*. My work spans both hardware and software domains, and I enjoy building end-to-end solutions that are technically sound and practically impactful.
