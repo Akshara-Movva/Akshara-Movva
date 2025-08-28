@@ -6,16 +6,18 @@ Here are some ideas to get you started:# 👋 Hi, I'm Akshara Movva
 
 ## 👨‍🎓 About Me
 
-I'm a graduate student in *Electrical Engineering* from the *University of Houston, with a strong foundation in **embedded systems, **digital design, and **parallel computing. I have hands-on experience in **PCB design, **microcontroller programming, **SystemVerilog/UVM, and **C++ graphics development*. My work spans both hardware and software domains, and I enjoy building end-to-end solutions that are technically sound and practically impactful.
+Hi I am Akshara Movva, an MS Computer & Systems Engineering student from University of Houston I am a dedicated and aspiring Physical Design Engineer with strong expertise in VLSI, full-custom digital circuits, and FPGA systems.
+Skilled in Cadence Virtuoso, Synopsys Design Compiler & Innovus, LTspice, ModelSim, and Python scripting for automation.Experienced in floor planning, placement & routing, clock tree synthesis, STA, timing closure, and power optimization.Proficient in Verilog, SystemVerilog, C/C++, MATLAB, TCL, and Perl for hardware-software co-design and verification.Hands-on experience in transistor-level pipeline design, ROM/RAM-based FPGA projects, and critical-path analysis.
+Strong foundation in computer architecture concepts like  cache coherence, out-of-order execution, and performance optimization.Passionate about delivering high-performance, low-power IC designs and collaborating in innovative engineering teams.
 
 ---
 
 ## 💡 Interests & Domains
 
-- Embedded Systems & RTOS (STM32, MSP430, FreeRTOS)
-- Digital Design & Verification (Verilog, SystemVerilog, UVM)
-- Parallel Computing (CUDA, Multithreading in C++)
-- Computer Architecture & Robotics
+- Physical Design Engineer
+- ASIC Physical Design Engineer
+- DFT Engineer
+- Computer Architecture
 - PCB Design & Signal Integrity (KiCad, LTspice)
 - Scene Rendering & Computer Graphics
 
@@ -23,8 +25,8 @@ I'm a graduate student in *Electrical Engineering* from the *University of Houst
 
 ## 🔧 Technologies & Tools
 
-*Languages*: C, C++, Java, Python, Verilog, SystemVerilog, Embedded C, CUDA, MATLAB, Assembly  
-*Tools*: STM32CubeIDE, Code Composer Studio, ModelSim, Quartus Prime, Vivado, Cadence, KiCad  
+*Languages*: C, C++, Java, Python, Verilog, SystemVerilog, Embedded C, MATLAB  
+*Tools*:  ModelSim, Quartus Prime, Vivado, Cadence, KiCad  
 *Other*: FreeRTOS, GLM, Boost, Linux, Git, Simulink, HSPICE, BMP rendering, VLSI Design
 
 ---
